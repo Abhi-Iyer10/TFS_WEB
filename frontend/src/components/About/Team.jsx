@@ -28,42 +28,138 @@ const Team = () => {
         </div>
       </div> */}
 
-      <h2>Technical Team</h2>
+
+      <h2>Chief Editor & Media Head</h2>
       <div className="team-grid">
       <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Kallepally Sai Kiran</h3>
-          <p>112201044@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>A Subhash</h3>
+          <p>122413003@smail.iitpkd.ac.in</p>
+          <p>Contact: 7207109366</p>
+        </div>
+      </div>
+      
+      <h2>Editors</h2>
+      <div className="team-grid">
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Adarsh G</h3>
+          <p>142402001@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>M Ruthvi</h3>
+          <p>142301021@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+      </div>
+
+      <h2>Correspondents</h2>
+      <div className="team-grid">
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Athira S J</h3>
+          <p>122401006@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Hemanth Kashyap Gundamaraju</h3>
+          <p>112301009@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Ashish Singh</h3>
+          <p>102201020@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>M.Ruthvi</h3>
+          <p>142301021@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Balram Sharma</h3>
+          <p>212305002@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+      </div>
+      
+
+      <h2>WebOps Coordinators</h2>
+      <div className="team-grid">
+      <div className="team-member">
+          {/* <p className="role">Developer</p> */}
           <h3>Simeon Kandan Sonar</h3>
           <p>112301031@smail.iitpkd.ac.in</p>
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Yasir Z</h3>
-          <p>142301037@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>Devapriya Pradeep</h3>
+          <p>112301006@smail.iitpkd.ac.in</p>
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Ashby Shibi</h3>
-          <p>132301007@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>Aryan</h3>
+          <p>112301041@smail.iitpkd.ac.in</p>
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Akhil Ganesh K</h3>
-          <p>132301004@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>Harshitha</h3>
+          <p>102301006@smail.iitpkd.ac.in</p>
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Jaisshnuvv K Subbiah Rajah</h3>
-          <p>132301016@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>Abhishek Iyer</h3>
+          <p>112401002@smail.iitpkd.ac.in</p>
+        </div>
+      </div>
+
+      <h2>Design & Social Media Team</h2>
+      <div className="team-grid">
+        <div className="team-member">
+          <p className="role">Design & Social Media Head</p>
+          <h3>Adarsh G</h3>
+          <p>142402001@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
         </div>
         <div className="team-member">
-          <p className="role">Developer</p>
-          <h3>Jake Mathew</h3>
-          <p>122301015@smail.iitpkd.ac.in</p>
+          {/* <p className="role">Developer</p> */}
+          <h3>Banavath krishnudu</h3>
+          <p>132402005@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>P Santosh</h3>
+          <p>112401025@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+      </div>
+
+      <h2>Video Editors</h2>
+      <div className="team-grid">
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>P Santosh</h3>
+          <p>112401025@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3> U Ganesh</h3>
+          <p>102301036@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>G Abhiram Reddy</h3>
+          <p>122301014@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
         </div>
       </div>
     </div>
