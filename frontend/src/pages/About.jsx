@@ -53,8 +53,8 @@ const ABOUT_US = () => {
         {/* Add the downloadable PDF link */}
         <div className="download-container">
          <a 
-            href="./TFS_Constitution.pdf" 
-            download="TFS_Constitution.pdf" 
+            href="./TFS_Constitution_v_2.0.pdf" 
+            download="TFS_Constitution_v_2.0.pdf" 
             className="download-link"
          >
            Download Constitution PDF
