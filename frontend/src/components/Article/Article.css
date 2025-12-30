@@ -5,6 +5,13 @@
     flex-direction: column;
 }
 
+.rect-art-card-doc {
+    width: 100%;
+    aspect-ratio: 1 / 1.414;
+    border-radius: 0px;
+    margin-bottom: 1rem;
+}
+
 .rect-art-card-video {
     width: 100%;
     aspect-ratio: 16 / 9;
