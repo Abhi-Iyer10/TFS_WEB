@@ -71,8 +71,9 @@ const Article = () => {
 
                 { article.docurl ? (
                     <iframe 
+                        className="rect-art-card-doc" 
                         src={article.docurl} 
-                        height="1250vw"
+                        type="application/pdf" 
                     />
                 ) : article.videourl ? (
                     <iframe
