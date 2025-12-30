@@ -70,10 +70,9 @@ const Article = () => {
                 </header>
 
                 { article.docurl ? (
-                    <embed 
+                    <iframe 
                         src={article.docurl} 
-                        type="application/pdf"
-                        height="1205vh"
+                        height="1250vw"
                     />
                 ) : article.videourl ? (
                     <iframe
